@@ -12,7 +12,7 @@ Salifort Motors is experiencing high employee turnover, affecting productivity a
 
 | Executive Summary |
 |-------------------|
-| <div style="text-align: center;"><img src="https://github.com/ashwinx09/Salifort_Motors_Advanced_Data_Analysis/blob/main/Executive_summary.jpg" width="500" /></div> |
+| <div style="text-align: center;"><img src="https://github.com/ashwinx09/Salifort_Motors_Advanced_Data_Analysis/blob/main/Executive_summary.jpg" width="700" /></div> |
 
 
 ---
